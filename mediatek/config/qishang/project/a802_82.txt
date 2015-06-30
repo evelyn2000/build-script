@@ -1,0 +1,3 @@
+applications/a802/Gmail.apk > system/vendor/operator/app/
+
+applications/a802/Google_Maps.apk > system/vendor/operator/app/

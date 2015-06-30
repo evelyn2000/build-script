@@ -1,0 +1,3 @@
+applications/a802/YouTube.apk > system/vendor/operator/app/
+
+applications/a802/Skype.apk > system/vendor/operator/app/
